@@ -1,5 +1,5 @@
 # LED_heart
-I was supposed to make blinking LED heart, designed electrical design and pcb
+I was supposed to make blinking LED heart, designed electrical 'heart' and pcb
 
 The final result [in Altium studio]:
 ![Zrzut ekranu 2025-04-14 021212](https://github.com/user-attachments/assets/60779682-80e6-4e82-b7ab-64ba841e9220)
