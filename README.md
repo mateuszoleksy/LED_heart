@@ -1,4 +1,6 @@
 # LED_heart
+LED HEART that 'that beats above all else'
+
 This project involves designing and building a blinking LED heart. It includes the creation of an electrical circuit and the development of a PCB (Printed Circuit Board) layout. The repository documents the process from schematic design to physical assembly, aiming to create a visually appealing heart-shaped LED pattern that blinks.
 
 If you want a more detailed or technical description (for example, mentioning specific components or microcontroller used), please provide more information or let me know if you want to include project goals, learning outcomes, or usage instructions!
