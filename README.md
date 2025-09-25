@@ -4,6 +4,8 @@ This project involves designing and building a blinking LED heart. It includes t
 If you want a more detailed or technical description (for example, mentioning specific components or microcontroller used), please provide more information or let me know if you want to include project goals, learning outcomes, or usage instructions!
 
 The final result [in Altium studio]:
+<img width="1792" height="1186" alt="image" src="https://github.com/user-attachments/assets/eb987ccd-f51a-4454-80bd-2d4595fc6e8f" />
+
 ![Zrzut ekranu 2025-04-14 021212](https://github.com/user-attachments/assets/60779682-80e6-4e82-b7ab-64ba841e9220)
 
 <img width="805" height="658" alt="Zrzut ekranu 2025-04-14 030325" src="https://github.com/user-attachments/assets/0e815cfb-dd8d-4b1a-a201-1b098f39e44a" />
