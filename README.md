@@ -1,5 +1,7 @@
 # LED_heart
-I was supposed to make blinking LED heart, designed electrical 'heart' and pcb. R4 as an thermistor and simple implementation with ne555 is applied.
+This project involves designing and building a blinking LED heart. It includes the creation of an electrical circuit and the development of a PCB (Printed Circuit Board) layout. The repository documents the process from schematic design to physical assembly, aiming to create a visually appealing heart-shaped LED pattern that blinks.
+
+If you want a more detailed or technical description (for example, mentioning specific components or microcontroller used), please provide more information or let me know if you want to include project goals, learning outcomes, or usage instructions!
 
 The final result [in Altium studio]:
 ![Zrzut ekranu 2025-04-14 021212](https://github.com/user-attachments/assets/60779682-80e6-4e82-b7ab-64ba841e9220)
